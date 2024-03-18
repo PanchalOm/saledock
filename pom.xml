@@ -11,6 +11,10 @@
     <name>Sale Dock - v${project.version}</name>
 
     <properties>
+
+        <sonar.login>admin</sonar.login>
+        <sonar.password>op14092003</sonar.password> 
+     
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <endorsed.dir>${project.basedir}/server/</endorsed.dir>
